@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Hello_World</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+ 	<string-array name="day">
+       <item>Monday</item>
+       <item>Tuesday</item>
+       <item>Wednesday</item>
+       <item>Thursday</item>
+       <item>Friday</item>
+       <item>Saturday</item>
+       <item>Sunday</item>
+   </string-array>
+</resources>
